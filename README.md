@@ -38,6 +38,6 @@ pip3 install -r requirements.txt
 
 Check `plot.py` for an example on how to produce the following line and bar plots:
 
-<img align="left" width="250" src="./examples/example_bar_plot.png">
-<img align="left" width="250" src="./examples/example_line_plot.png">
+<img align="left" width="400" src="./examples/example_bar_plot.png">
+<img align="left" width="400" src="./examples/example_line_plot.png">
 
