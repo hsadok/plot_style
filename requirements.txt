@@ -1,0 +1,2 @@
+pubplot==0.2.4
+matplotlib
