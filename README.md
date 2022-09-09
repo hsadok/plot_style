@@ -13,6 +13,11 @@ sudo apt update
 sudo apt install texlive-base texlive-latex-recommended texlive-fonts-recommended texlive-publishers texlive-latex-extra
 ```
 
+If you have trouble when running, you may also consider installing the following additional packages:
+```bash
+sudo apt install cm-super texlive-fonts-extra dvipng
+```
+
 Install the python dependencies using pip:
 
 ```bash
